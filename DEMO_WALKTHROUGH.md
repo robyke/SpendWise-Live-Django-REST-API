@@ -784,3 +784,14 @@ Users authenticate using token authentication and can create, view, filter, sear
 The backend enforces ownership so users cannot access another user's expense records.
 
 The project also demonstrates pagination, authentication protection, CORS configuration, database persistence, and live frontend-to-backend communication.
+## Screenshot Evidence
+
+### 1. SpendWise Login Page
+![SpendWise login page](screenshots/01-login-page.png)
+
+### 2. Robin Dashboard With Live Expenses
+![Robin dashboard](screenshots/02-robin-dashboard.png)
+
+### 3. Per-User Expense Isolation
+![User isolation](screenshots/03-user-isolation.png)
+
